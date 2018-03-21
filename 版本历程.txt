@@ -1,3 +1,4 @@
+项目GitHub地址：https://github.com/qwsddn/autowork
 注意：工具打开时提示：已有用户登录，如果确定没其他用户在使用工具，将temp目录的login_lock删除即可。
 2017.7.11
 autowork 1.0发布

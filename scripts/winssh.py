@@ -69,7 +69,6 @@ def winssh(ip):
 if __name__=='__main__':
     lock = Lock()
     pool = ThreadPool(thread_num,initializer=init, initargs=(lock,))
-    lock = Lock()
     for ip in open(ip_list):
         if not ip.split():
             continue
